@@ -1,1 +1,1 @@
-## Vue Cookbook Example
+### Structure
