@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Matteo Hertel <info@matteohertel.com>",
   "license": "MIT"
 }
